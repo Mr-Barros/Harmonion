@@ -6,6 +6,7 @@ Em Harmonion, você conhece um cavaleiro que tem a missão de derrotar um dragã
 
 Para testar o app, utilize o app Swift Playgrounds em um iPad, preferencialmente de 11 ou 12.9 polegadas.
 
+
 [EN]
 
 App Playground submitted for Apple's WWDC24 Swift Student Challenge, selected amongst the 350 winners.
